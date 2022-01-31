@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/Model/Cliente.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/Dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/View/TelaConsultaFilme.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/Dao/AtorDAO.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/Model/Ator.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/View/TelaCadastroAtor.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/controler/AtorController.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/View/TelaCadastroFilme.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/Dao/ConnectionMVC.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/Dao/FilmeDAO.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/View/TelaCadastroCliente.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/controler/FilmeController.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/controler/ClienteController.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/Dao/ExceptionDAO.java</file>
+            <file>file:/C:/Users/Pichau/Documents/NetBeansProjects/JavaMVC/src/Locadora/Model/Filme.java</file>
+        </group>
+    </open-files>
+</project-private>
